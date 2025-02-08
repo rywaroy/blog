@@ -12,6 +12,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '使用大语言模型 API 搭建个人 AI 助理',
+        link: '/article/使用大语言模型 API 搭建个人 AI 助理/'
+      },
+      {
         text: '探索 AIGC 在模板代码上的应用',
         link: '/article/探索 AIGC 在模板代码上的应用/'
       },
