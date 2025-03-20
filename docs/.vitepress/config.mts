@@ -12,6 +12,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '搭建组件知识库，优化 AI 生成代码的效果',
+        link: '/article/搭建组件知识库，优化 AI 生成代码的效果/'
+      },
+      {
         text: '在 Cursor 中搭建 MCP 服务，利用 AI 将 Figma 转成代码',
         link: '/article/在 Cursor 中搭建 MCP 服务，利用 AI 将 Figma 转成代码/'
       },
